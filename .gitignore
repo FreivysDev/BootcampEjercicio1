@@ -1,0 +1,5 @@
+# VSCode
+.vscode/
+
+# Ignorar la carpeta _site de Eleventy (11ty)
+_site/
